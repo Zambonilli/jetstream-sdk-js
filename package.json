@@ -1,0 +1,30 @@
+{
+  "name": "jetstream-sdk-js",
+  "version": "0.0.0",
+  "description": "Jetstream SDK for javascript in the browser and Node.js",
+  "main": "bin/jetstream",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zambonilli/jetstream-sdk-js.git"
+  },
+  "keywords": [
+    "jetstream",
+    "rfid"
+  ],
+  "author": "Mike Lohmeier",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/Zambonilli/jetstream-sdk-js/issues"
+  },
+  "homepage": "https://github.com/Zambonilli/jetstream-sdk-js"
+}
