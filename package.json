@@ -1,7 +1,7 @@
 {
-  "name": "jetstream-sdk-js",
-  "version": "0.0.0",
-  "description": "Jetstream SDK for javascript in the browser and Node.js",
+  "name": "jetstream-sdk",
+  "version": "1.0.0",
+  "description": "Jetstream SDK for javascript in Node.js",
   "main": "bin/jetstream",
   "directories": {
     "example": "examples",
